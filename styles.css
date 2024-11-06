@@ -1,0 +1,88 @@
+html {
+    font-size: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    width: 80%;
+    margin: 20px auto;
+    line-height: 2;
+}
+
+.outside-theme {
+    background-color: rgb(211, 197, 176);
+}
+
+.container-theme {
+    background-color: rgb(247, 240, 225);
+}
+
+.center {
+    text-align: center;
+}
+
+.font-heading-1 {
+    font-size: 3rem;
+}
+
+.font-heading-2 {
+    font-size: 2.25rem;
+}
+
+.max-width-1000 {
+    max-width: 1000px;
+}
+
+#main {
+    padding: 20px 0 50px;
+}
+
+#title-description {
+    font-size: 2rem;
+}
+
+#img-div {
+    margin-top: 30px;
+    padding: 50px 0 15px;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    object-fit: cover;
+    width: 85%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-caption {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 1.75rem;
+    font-style: italic;
+}
+
+#tribute-info {
+    margin: 60px auto;
+    width: 80%;
+}
+
+#tribute-heading {
+    margin: 0 0 20px;
+}
+
+#tribute-info > ul > li {
+    font-size: 1.6rem;
+    margin: 10px 0;  
+}
+
+#tribute-info > ul > li > span {
+    font-weight: bold;
+    
+}
+
+#main-footer {
+    font-size: 2rem;
+    margin: 0 auto;
+    width: 80%;
+}
